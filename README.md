@@ -137,3 +137,9 @@ You will be given a string of student names. Sort them and return a list of name
 - **Luck check**: write a funtion luck_check(str), which returns true/True if argument is string decimal representation of a lucky ticket number, or false/False for all other numbers. It should throw errors for empty strings or strings which don't represent a decimal number.
 - **Power of 4**: Write a method that returns true if a given parameter is a power of 4, and false if it's not. If parameter is not an Integer (eg String, Array) method should return false as well. (In C# Integer means all integer Types like Int16,Int32,.....)
 - **Least common multiple**: Write a function that calculates the least common multiple of its arguments; each argument is assumed to be a non-negative integer.
+<<<<<<< HEAD
+=======
+- **Arabic String**: You must create a method that can convert a string from any format into CamelCase. This must support symbols too.
+
+
+>>>>>>> 34624986ab5091696945a62c804100a525d87848
