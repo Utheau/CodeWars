@@ -138,5 +138,11 @@ You will be given a string of student names. Sort them and return a list of name
 - **Power of 4**: Write a method that returns true if a given parameter is a power of 4, and false if it's not. If parameter is not an Integer (eg String, Array) method should return false as well. (In C# Integer means all integer Types like Int16,Int32,.....)
 - **Least common multiple**: Write a function that calculates the least common multiple of its arguments; each argument is assumed to be a non-negative integer.
 - **Arabic String**: You must create a method that can convert a string from any format into CamelCase. This must support symbols too.
-
+- **Caffeine scripts**: Complete the function caffeineBuzz, which takes a non-zero integer as it's one argument.
+If the integer is divisible by 3, return the string "Java".
+If the integer is divisible by 3 and divisible by 4, return the string "Coffee"
+If the integer is one of the above and is even, add "Script" to the end of the string.
+Otherwise, return the string "mocha_missing!"
+- **Batman quotes**: Batman & Robin have gotten into quite a pickle this time. The Joker has mixed up their iconic quotes and also replaced one of the characters in their names, with a number. They need help getting things back in order. Implement the getQuote method which takes in an array of quotes, and a string comprised of letters and a single number (e.g. "Rob1n") where the number corresponds to their quote indexed in the passed in array.
+- **Colour association**: Colour plays an important role in our lifes. Most of us like this colour better then another. User experience specialists believe that certain colours have certain psychological meanings for us. You are given a 2D array, composed of a colour and its 'common' association in each array element. The function you will write needs to return the colour as 'key' and association as its 'value'.
 
