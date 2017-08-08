@@ -12,3 +12,5 @@ class BatmanQuotes(object):
                 sentences = sentences[int(a)]
                 break
         return OUTPUT(hero, sentences)
+
+      
